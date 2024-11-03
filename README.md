@@ -1,5 +1,6 @@
-# React-js-Customer
-# React.js Customer CRUD Application
+# React-js-Customer With SpringBoot
+
+# React.js Customer CRUD Application Spring Boot and MYSQL
 
 ## Project Description
 This project is a Customer CRUD (Create, Read, Update, Delete) application built with React.js for the frontend. It allows users to manage customer data through a web interface, performing basic CRUD operations. The backend API is secured using JWT (JSON Web Tokens) and HTTP requests are made using Axios.
